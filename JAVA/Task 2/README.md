@@ -15,6 +15,8 @@ MENTOR : NEELA SANTOSH
 2. json simple JSONObject
 3. json simple parser JSONParser
 
+JSON Simple – A lightweight library for parsing, generating, and manipulating JSON data in Java applications.
+
 ## Also used GeoCoding API
 
 ## OUTPUT:
