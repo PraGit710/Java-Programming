@@ -11,9 +11,10 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
 
 ## I have used IntelliJ IDEA code Editor and used following libraries ->
-1.json simple JSONArray
-2.json simple JSONObject
-3.json simple parser JSONParser
+1. json simple JSONArray
+2. json simple JSONObject
+3. json simple parser JSONParser
+
 ## Also used GeoCoding API
 
 ## OUTPUT:
